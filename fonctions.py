@@ -1,12 +1,12 @@
 
 def addition(x, y):
     """Retourne la somme de x et y"""
-    return 
+    return
 
 
 def soustraction(x, y):
     """Retourne la différence de x et y"""
-    return 
+    return x - y 
 
 
 def noms_binome():
