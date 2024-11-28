@@ -17,6 +17,8 @@ def noms_binome():
     print("Aurélian et Agnès")
     print ("Agnès")
 
+    print("Aurélian")
+
 a = 2
 b = 1
 
