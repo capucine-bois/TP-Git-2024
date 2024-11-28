@@ -1,19 +1,16 @@
 
 def addition(x, y):
-    """Retourne la somme de x et y"""
-    return 
+    """alois est bizarre"""
+    return x+y
 
 
 def soustraction(x, y):
     """Retourne la différence de x et y"""
-    return 
+    return x - y 
 
 
 def noms_binome():
-    """
-    Affiche les noms des membres du binôme
-    Attention, chacun écrit la ligne pour afficher son nom
-    """
+    print(f"Imane et Vini", end='\n')
 
 
 a = 2
