@@ -2,7 +2,7 @@
 
 int main()
 {
-	printf("Hello INSA!\n");
+	printf("Hello INSA, je m'apelle mamane!\n");
 	return 0;
 }
 
