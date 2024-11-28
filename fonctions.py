@@ -8,6 +8,10 @@ def soustraction(x, y):
     """Retourne la différence de x et y"""
     return 
 
+def multiplication(x, y):
+    """Retourne la différence de x et y"""
+    return x*y
+
 
 def noms_binome():
     """
